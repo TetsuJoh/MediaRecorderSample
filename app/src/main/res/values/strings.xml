@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MediaRecorderSample</string>
+    <string name="bt_Start">録音開始</string>
+    <string name="bt_Ongoing">録音中</string>
+    <string name="bt_Stop">録音終了</string>
+</resources>
