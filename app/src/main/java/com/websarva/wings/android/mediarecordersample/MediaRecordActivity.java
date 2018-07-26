@@ -17,6 +17,8 @@ import static java.lang.Boolean.FALSE;
 
 public class MediaRecordActivity extends AppCompatActivity {
 
+    //testComment
+
     public MediaRecorder _recorder;
     private Button _btStart;
     private Button _btStop;
